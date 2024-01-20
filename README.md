@@ -1,4 +1,4 @@
-# A4-Collecting Data Assignment
+# Collecting Data--Final individual project--Corpus 
 
 # Corpus Description 
 
