@@ -12,7 +12,7 @@ The target audience includes individuals interested in Dutch universities, aimin
 
 ## 3. Text selection and scraping
 
-The selection criteria emphasize text files in the TXT format, primarily associated with renowned universities in the Netherlands.
+The selection criteria emphasize text files in the TXT format, primarily associated with renowned universities in the Netherlands. This corpus selects various types of universities in the Netherlands for reference, offering assistance to those interested in the Dutch university system. The corpus primarily extracts official information about each university from Wikipedia, scrapes into txt documents through using Python codes, which facilitates and ensures accuracy for subsequent text processing and analysis.
 
 ## 4. Data collection process
 
