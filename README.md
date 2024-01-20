@@ -6,13 +6,13 @@
 
 The corpus consists of text files scraped from Wikipedia, containing introductions to universities in the Netherlands. The corpus selected includes 15 universities and colleges in the Netherlands. This corpus categorizes these institutions, providing convenience for international students who wish to apply to Dutch schools in understanding the types of universities in the Netherlands. It also facilitates the evaluation of different institutions.
 
-## 2. Text selection and scraping
-
-The selection criteria emphasize text files in the TXT format, primarily associated with renowned universities in the Netherlands.
-
-## 3. The target users and purpose
+## 2. The target users and purpose
 
 The target audience includes individuals interested in Dutch universities, aiming to provide a comprehensive understanding of these institutions from various perspectives. This corpus, in TXT format, serves the purpose of comparing the differences among Dutch universities. It facilitates a deeper exploration of distinct organizational structures, historical backgrounds, and other aspects contributing to a nuanced understanding of the varied landscape of Dutch higher education.
+
+## 3. Text selection and scraping
+
+The selection criteria emphasize text files in the TXT format, primarily associated with renowned universities in the Netherlands.
 
 ## 4. Data collection process
 
