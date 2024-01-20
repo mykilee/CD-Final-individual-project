@@ -4,7 +4,7 @@
 
 ## 1. The corpus used in this assignment
 
-The corpus consists of text files scraped from Wikipedia, containing introductions to universities in the Netherlands. The corpus selected includes 15 universities and colleges in the Netherlands.
+The corpus consists of text files scraped from Wikipedia, containing introductions to universities in the Netherlands. The corpus selected includes 15 universities and colleges in the Netherlands. This corpus categorizes these institutions, providing convenience for international students who wish to apply to Dutch schools in understanding the types of universities in the Netherlands. It also facilitates the evaluation of different institutions.
 
 ## 2. Text selection and scraping
 
